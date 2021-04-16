@@ -40,8 +40,8 @@ console.log(`This is a random number ${random}`);
 */
 
 let me = {
-    name: 'Sam',
-    surname: 'Peter',
+    name: 'Rabia',
+    surname: 'Ilyas',
     age: 22
 }
 
